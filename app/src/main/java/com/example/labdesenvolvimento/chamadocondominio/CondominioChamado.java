@@ -3,7 +3,7 @@ package com.example.labdesenvolvimento.chamadocondominio;
 import android.app.Activity;
 import android.os.Bundle;
 
-public class CondominioChamado extends Activity {
+public class CondomiknioChamado extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
